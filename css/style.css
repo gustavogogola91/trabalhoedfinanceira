@@ -20,7 +20,7 @@ header {
 }
 
 main {
-    background-color: linear-gradient(black, gray, darkgray);
+    background-image: linear-gradient(black, rgb(79, 77, 77), darkgray);
     height: 610px;
     width: 1200px;
     margin: auto;
