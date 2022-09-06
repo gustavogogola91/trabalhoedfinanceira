@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+* {
+    font-family: 'Oswald', sans-serif;
+    color: darkgray;
+}
+
+body {
+    align-items: center;
+    text-align: center;
+    
+}
+
+header {
+    background-color: rgb(26, 26, 230);
+    width: 100%;
+    height: 47px;
+    padding-top: 25px;
+}
+
+main {
+    background-image: url("../img/fundo1.png");
+    background-repeat: no-repeat;
+    height: 610px;
+}
+
+footer {
+    background-color: rgb(26, 26, 230);
+    width: 100%;
+    height: 46px;
+    padding-top: 25px;
+}
+
+h1 {
+    font-size: 70px;
+    padding-top: 70px;
+    margin-bottom: 70px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-top: 90px;
+}
+
+p {
+    font-size: 35px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.centralizar {
+    padding-top: 90px;
+}
+
+table {
+    padding-top: 50px;
+    font-size: 35px;
+    margin: auto;
+}
+
+th, td {
+    border: 2px solid darkgray;
+    padding: 10px;
+}
