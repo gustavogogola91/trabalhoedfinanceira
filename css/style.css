@@ -20,7 +20,7 @@ header {
 }
 
 main {
-    background-image: url("https://www.redemagic.com/blog/tecnologia/e-possivel-aprender-programar-sozinho/");
+    background-color: linear-gradient(black, gray darkgray);
     background-repeat: no-repeat;
     height: 610px;
     width: 1200px;
