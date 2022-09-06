@@ -8,32 +8,36 @@
 body {
     align-items: center;
     text-align: center;
-    
+    background-color: black;
 }
 
 header {
     background-color: rgb(26, 26, 230);
-    width: 100%;
+    width: 1200px;
     height: 47px;
     padding-top: 25px;
+    margin: auto;
 }
 
 main {
     background-image: url("../img/fundo1.png");
     background-repeat: no-repeat;
     height: 610px;
+    width: 1200px;
+    margin: auto;
 }
 
 footer {
     background-color: rgb(26, 26, 230);
-    width: 100%;
+    width: 1200px;
     height: 46px;
     padding-top: 25px;
+    margin: auto;
 }
 
 h1 {
-    font-size: 70px;
-    padding-top: 70px;
+    font-size: 90px;
+    padding-top: 150px;
     margin-bottom: 70px;
 }
 
@@ -56,10 +60,7 @@ a {
 
 li {
     list-style-type: none;
-}
-
-.centralizar {
-    padding-top: 90px;
+    font-size: 35px;
 }
 
 table {
@@ -72,3 +73,4 @@ th, td {
     border: 2px solid darkgray;
     padding: 10px;
 }
+
