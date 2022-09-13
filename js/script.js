@@ -1,6 +1,6 @@
 function inicializa() {
     document.addEventListener("keydown", () => {
-        const key = event.key
+        const key = event.key;
         const urlAtual = window.location.href;
         console.log(urlAtual)
 
